@@ -12,6 +12,7 @@ public class Client {
     private String fullName;
     private Integer income;
 
+
     public Client(Long id, String fullName, Integer income) {
         this.id = id;
         this.fullName = fullName;
